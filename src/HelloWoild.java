@@ -3,4 +3,5 @@ public class HelloWoild {
 		System.out.println(args[0] + " " + args[1]);
 		System.out.println(args.length);
 	}
+	;;;;
 }
