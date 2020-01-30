@@ -6,3 +6,4 @@ https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99 
 https://codeburst.io/ace-your-javascript-interview-learn-algorithms-data-structures-dabb547fb385 <br>
 https://jqueryplugins.net/<br>
 https://dmitripavlutin.com/6-ways-to-declare-javascript-functions/<br>
+https://www.oracle.com/java/technologies/<br>
