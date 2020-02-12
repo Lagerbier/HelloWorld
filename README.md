@@ -9,3 +9,4 @@ https://dmitripavlutin.com/6-ways-to-declare-javascript-functions/<br>
 https://www.oracle.com/java/technologies/<br>
 https://www.mapbox.com<br>
 https://javadeveloperzone.com<br>
+https://howtodoinjava.com/<br>
